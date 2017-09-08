@@ -1,6 +1,6 @@
 ﻿cd %~dp0
 
-copy FE8_clean.gba CCB_Round1.gba
+copy FE8_clean.gba RagefestV.gba
 
 cd "%~dp0Tables"
 
@@ -12,10 +12,10 @@ echo: | (textprocess_v2 text_buildfile.txt)
 
 cd "%~dp0Event Assembler"
 
-Core A FE8 "-output:%~dp0CCB_Round1.gba" "-input:%~dp0ROM Buildfile.event"
+Core A FE8 "-output:%~dp0RagefestV.gba" "-input:%~dp0ROM Buildfile.event"
 
 cd "%~dp0ups"
 
-ups diff -b "%~dp0FE8_clean.gba" -m "%~dp0CCB_Round1.gba" -o "%~dp0CCB_Round1.ups"
+ups diff -b "%~dp0FE8_clean.gba" -m "%~dp0RagefestV.gba" -o "%~dp0RagefestV.ups"
 
 pause
