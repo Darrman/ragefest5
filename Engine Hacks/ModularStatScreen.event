@@ -29,7 +29,7 @@
   SHORT $e010 //Temporary r-text fix to prevent freezing
   ORG $889f2  
   SHORT $BD30
-  BL(RText_Page4_ladder) //this has to be in bl range somewhere
+  //BL(RText_Page4_ladder) //this has to be in bl range somewhere
 
   //Make all the arrows line up with the stats and stuff
   ORG $883C0

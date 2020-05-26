@@ -3,8 +3,8 @@
 #define AnimTableEntry(index) "ORG ClassAnimTable + (index * 0x20)"
 
 PUSH
-  ORG $AC188
-  POIN NewDifficultyButtons
+  //ORG $AC188
+  //POIN NewDifficultyButtons
 
   ORG $8AEFE4
   BYTE 1 //make eirika use anims for lance not swd
@@ -17,15 +17,13 @@ PUSH
   ORG $aac5ac
   #incext Png2Dmp "FE_Title.png" --lz77
 
-  ORG $a16dec
-  #incext Png2Dmp "edited status names_a16dec.png"
 
   ORG $aac58c //clearing dragon palette to only use 1 colour
   BYTE $90 $42 $EE $2A $EE $2A $EE $2A $EE $2A $EE $2A $EE $2A $EE $2A $EE $2A $EE $2A $EE $2A $EE $2A $EE $2A $EE $2A $EE $2A $EE $2A
 POP
 
 NewDifficultyButtons:
-#incext Png2Dmp "difficulty.png" --lz77
+//#incext Png2Dmp "difficulty.png" --lz77
 
 NewTitleScroll:
 #incext Png2Dmp "TitleScroll.png" --lz77
@@ -33,8 +31,8 @@ NewTitleScroll:
 PUSH
 ORG 0x5926F4+(0x80*8)
 #incext Png2Dmp "blitzicon.png"
-ORG 0x5926F4+(0x80*0xb0)
-#incext Png2Dmp "superblitzicon.png"
+//ORG 0x5926F4+(0x80*0xb0)
+//#incext Png2Dmp "superblitzicon.png"
 ORG 0x5926F4+(0x80*0x42)
 #incext Png2Dmp "auraicon.png"
 POP
@@ -77,14 +75,14 @@ POP
 
 
 //Stat screen
-PUSH
-ORG $88638
-POIN NewStatScreen
-ORG $88620
-POIN RemoveGlowy
-ORG $88640
-POIN NewStatScreenPal
-POP
+//PUSH
+//ORG $88638
+//POIN NewStatScreen
+//ORG $88620
+//POIN RemoveGlowy
+//ORG $88640
+//POIN NewStatScreenPal
+//POP
 
 NewStatScreen:
 #incext Png2Dmp "StatScreen_B.png" --lz77

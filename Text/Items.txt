@@ -49,3 +49,51 @@ a horse to start riding on.[X]
 Promote Void when[N]
 you feel the time is[N]
 right. Lv10 unneeded.[X]
+
+## LoptoName
+Lopto[X]
+
+## LoptoDesc
+Sadly, does not 1/2 attack.[X]
+
+## TyrfingName
+Tyrfing[X]
+
+## TyrfingDesc
++10 Skl/Spd, +20 Res. Celice.[X]
+
+## BalmungName
+Balmung[X]
+
+## BalmungDesc
++10 Skl, +20 Spd. For Shanan.[X]
+
+## MistoltinName
+Mistoltin[X]
+
+## MistoltinDesc
+Aless broke it, the fool.[X]
+
+## GaeBolgName
+Gae Bolg[X]
+
+## GaeBolgDesc
++10 Str/Skl/Def. For Altenna.[X]
+
+## IchivalName
+Ichival[X]
+
+## IchivalDesc
++10 Str/Spd. For Faval.[X]
+
+## HolsetyName
+Holsety[X]
+
+## HolsetyDesc
++10 Skl, +20 Spd. For Sety.[X]
+
+## NargaName
+Narga[X]
+
+## NargaDesc
++20 Skl/Spd/Def/Res. For Julia.[X]

@@ -1,1 +1,2 @@
-thief person[X]
+The tenth of the Dark[N]
+Warlords, a dark bishop.[X]

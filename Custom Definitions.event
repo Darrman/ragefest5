@@ -19,6 +19,60 @@
 
 #include "Engine Hacks/Skill System/skill_definitions.event"
 
+#define Julius 0x1
+#define Eins 0x2
+#define Zwei 0x3
+#define Drei 0x4
+#define Vier 0x5
+#define Funf 0x6
+#define Sechs 0x7
+#define Sieben 0x8
+#define Acht 0x9
+#define Neun 0xA
+#define Zehn 0xB
+#define Elf 0xC
+#define Zwolf 0xD
+//filler place
+//no ephraim replacement
+#define Celice 16
+#define Lana 17
+#define Skasaha 18
+#define Lakche 19
+#define Delmud 20
+#define Lester 21
+#define Oifaye 22
+#define Julia 23
+#define Johan 24
+#define Arthur 25
+#define Fee 26
+#define Shanan 27
+#define Patty 28
+#define Leaf 29
+#define Nanna 30
+#define Fin 31
+#define Aless 32
+#define Leen 33
+#define Tinny 34
+#define Faval 35
+#define Sety 36
+#define Corple 37
+#define Hannibal 38
+#define Altenna 39
+
+#define Lyria 0x60
+#define Meriah 0x61
+#define Plum 0x62
+#define Yuni 0x63
+
+#define Ch8Boss 0x4D
+#define Ch8Generic 0x99
+#define Ch21Boss 0xC5
+#define Ch21Generic 0x9A
+
+#endif
+
+// so compiling isn't so annoyed
+
 #define Void 1
 #define Tim 2
 #define Tam 3
@@ -55,15 +109,3 @@
 #define Tiki 34
 
 #define Mark 36
-
-#define Lyria 0x60
-#define Meriah 0x61
-#define Plum 0x62
-#define Yuni 0x63
-
-#define Ch8Boss 0x4D
-#define Ch8Generic 0x99
-#define Ch21Boss 0xC5
-#define Ch21Generic 0x9A
-
-#endif

@@ -1,6 +1,6 @@
 #0x1a2 PrologueGoal
-Slay all in your way[N]
-and seize the gate[X]
+Kill Celice, that[N]
+pleasant fellow[X]
 
 ## Ch1Goal
 Get the kid to the[N]

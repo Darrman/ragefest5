@@ -1,74 +1,79 @@
 ##Name_Void
-Void[X]
+Julius[X]
 
 ##Desc_Void
-knoll much[X]
+The Dark Prince of Grandbell,[N]
+possessed by big bad Lopto.[X]
 
 ##Name_Tim
-Tim[X]
+Eins[X]
 
 ##Desc_Tim
-His friends call[N]
-him Timathan.[X]
+The first of the Dark Warlords,[N]
+a baron of Manster.[X]
 
 ##Name_Tam
-Tam[X]
+Zwei[X]
 
 ##Desc_Tam
-Secretly wishes he[N]
-was a necromancer.[X]
+The second of the Dark Warlords,[N]
+a hero distantly related to Isaac.[X]
 
 ##Name_Jerome
-Jerome[X]
+Drei[X]
 
 ##Desc_Jerome
-You want a playable soldier?[X]
+The third of the Dark Warlords,[N]
+a Thracian bandit from the hills.[X]
 
 ##Name_Leeroy
-Leeroy[X]
+Vier[X]
 
 ##Desc_Leeroy
-At least I have chicken.[X]
+The fourth of the Dark[N]
+Warlords, a high priest.[X]
 
 ##Name_Bede
-Bede[X]
+Sechs[X]
 
 ##Desc_Bede
-sexy priest[X]
+The sixth of the Dark Warlords,[N]
+a mage fighter of Tordo blood.[X]
 
 ##Name_Jay
-Jay[X]
+Sieben[X]
 
 ##Desc_Jay
-An old veteran of the Renegade[N]
-translation era. Got the tools down.[X]
+The seventh of the Dark Warlords,[N]
+a bishop of Fala blood.[X]
 
 ##Name_NotArch
-Not Arch[X]
+Acht[X]
 
 ##Desc_NotArch
-His divine lightning[N]
-will pierce your face.[X]
+The eighth of the Dark Warlords,[N]
+a sage of Holsety blood.[X]
 
 ##Name_Kirsten
-Kirsten[X]
+Neun[X]
 
 ##Desc_Kirsten
-oy u best lisen ere m8 il giv u[N]
-a proper bashin u cheeky bruv[X]
+The ninth of the Dark[N]
+Warlords, a swordmaster.[X]
 
 ##Name_Bob
-Bob[X]
+Zehn[X]
 
 ##Desc_Bob
-thief person[X]
+The tenth of the Dark[N]
+Warlords, a dark bishop.[X]
 
 ##Name_Roshea
-Roshea[X]
+Elf[X]
 
 ##Desc_Roshea
-Deserted the Wolfguard to pursue[N]
-his dreams of being a dancer.[X]
+The eleventh of the Dark Warlords,[N]
+a shaman related to Manfloy.[X]
 
 ##Name_Edge
 Edge[X]
@@ -77,130 +82,158 @@ Edge[X]
 Can handle the weight.[X]
 
 ##Name_Samson
-Samson[X]
+Celice[X]
 
 ##Desc_Samson
-Just generally confused.[X]
+He calls himself the Scion of[N]
+Light, and is the son of Zigludo.[N]
+By the way, he likes healers.[X]
 
 ##Name_Arve
-Arve[X]
+Lana[X]
 
 ##Desc_Arve
-Elder. It's ELDER.[N]
-Not dark. E-L-D-E-R.[X]
+Celice's wife. Come on, look at[N]
+them. They're so cute together![N]
+You'd be a monster to split them.[X]
 
 ##Name_Tye
-Tye[X]
+Skasaha[X]
 
 ##Desc_Tye
-Archenemy of Tim and Tam.[N]
-Or so he keeps claiming.[X]
+This guy's name is a pain to[N]
+pronounce. And spell. And it[N]
+keeps changing. Geez.[X]
 
 ##Name_Celicia
-Celicia[X]
+Lakche[X]
 
 ##Desc_Celicia
-Prone to wandering off alone,[N]
-lost in thoughts of grey waves.[X]
+In a distant land, a great war took[N]
+place over her husband's identity.[N]
+Some say Johan, Shanan, Celice?![X]
 
 ##Name_Eevster
-Eevster[X]
+Delmud[X]
 
 ##Desc_Eevster
-The (Former) King of[N]
-the Basement.[X]
+A boring, useless idiot who is[N]
+not very charismatic. Darn.[N]
+We think his dad is Beowulf.[X]
 
 ##Desc_WyvAnna
-How many Annas are[N]
-there, anyway?[X]
+In all the years of namewanking,[N]
+he has been consistently Lester.[N]
+Compared to his poor mother...[X]
 
 ##Name_Nikita
-Nikita[X]
+Oifaye[X]
 
 ##Desc_Nikita
-Axe-focused GK[X]
+He's fought with Zigludo, he's[N]
+fought with Celice. All and all,[N]
+he's a good, loyal man.[X]
 
 ## EdgeworthName
-Edgeworth[X]
+Johan[X]
 
 ## ZigludoName
-Zigludo[X]
+Arthur[X]
 
 ##KagaName
-Kaga[X]
+Fee[X]
 
 ##MarfName
-Marf[X]
+Leen[X]
 
 ##EdgeworthDesc
-HIS EDGE IS WORTH[X]
+He's head over heels in love[N]
+with Lakche. That being said,[N]
+you can get Johalva instead.[X]
 
 ##ZigludoDesc
-Haha Funny fire meme[N]
-wank Xdddd dab[X]
+Arthur, destroyer of worlds with[N]
+Holset- What? His dad is Azel?[N]
+Really? You're no fun.[X]
 
 ##KagaDesc
-Creator of Fire Emblem, and[N]
-our lord and savior.[X]
+Daugher of Fury. Or Erin. Or[N]
+Ferry. Actually, do we spell[N]
+your name Fee or Phee now?[X]
 
 ##MarfDesc
-Not amused[X]
+You give her the Knight and[N]
+Leg Rings, and you've got a[N]
+super dancer on your hands.[X]
 
 ##Desc_RogueAnna
-A girl with a familiar face.[N]
-Her love of money is REALLY strong.[X]
+Celice's sister. She's also[N]
+in love with the man. Yes,[N]
+she loves him in *that* way.[X]
 
 ##Name_Doot
-Doot[X]
+Shanan[X]
 
 ##Desc_Doot
-DOOT DOOT[X]
+Once a little kid that Zigludo[N]
+bailed out, now a swordmaster[N]
+ready to obliterate his foes.[X]
 
 ##Name_Celica
-Celica[X]
+Patty[X]
 
 ##Desc_Celica
-Princess of the Pirates.[N]
-Hails from a distant land.[X]
+A thief that may be slightly[N]
+obsessed with Shanan. She did[N]
+freak out when seeing him.[X]
 
 ##Name_Doowile
-Doowile[X]
+Leaf[X]
 
 ##Desc_Doowile
-Consume thy enemy![X]
+A glorious Master Knight, all[N]
+ready to use whatever he pleases.[N]
+Except dark magic. But no matter.[X]
 
 ##Name_EvilFlorina
-Evil Florina[X]
+Nanna[X]
 
 ##Desc_EvilFlorina
-uweeheehee[X]
+Leaf's wife, Fin's daughter.[N]
+...I may have crossed many[N]
+lines with those statements.[X]
 
 ##Name_Jake
-Jake[X]
+Aless[X]
 
 ##Desc_Jake
-Anna's boyfriend.[N]
-Beat Leeroy at Monopoly.[X]
+A palette swap of Eltshan.[N]
+Come on, he's just his father[N]
+but wearing black instead.[X]
 
 ##Name_Tiki
-Tiki[X]
+Tinny[X]
 
 ##Desc_Tiki
-Pining for Mar-Mar.[X]
+She's cute, I'll give her that.[N]
+Sadly, that's about her only[N]
+redeeming trait. *sighs*[X]
 
 ##Name_Mark
-Mark[X]
+Sety[X]
 
 ##Desc_Mark
-A mysterious person who[N]
-claims to be a tactician.[X]
+A truly amazing unit. Praise the[N]
+power of Holsety! By the way,[N]
+whoever invented "Ced" is stupid.[X]
 
 ##Name_Bjoern
-Bj[0xf6]rn[X]
+Fin[X]
 
 ##Desc_Bjoern
-His raison d'[0xea]tre: na[0xef]vet[0xe9] as[N]
-a fa[0xe7]ade for doppelg[0xe4]ngers.[X]
+You can't kill him. He's lived[N]
+through Barhara. He's lived in[N]
+the Empire. He's survived Thracia.[X]
 
 ##Name_EdgeAlly
 Edge's Ally[X]
@@ -234,10 +267,11 @@ Harrison[X]
 One of the four Beatles.[X]
 
 ##Name_Prine
-Prine[X]
+Zwolf[X]
 
 ##Desc_Prine
-onii-nyama sugoi~[X]
+The twelveth of the Dark Warlords,[N]
+leader of a gang of pirates.[X]
 
 ##Name_Maeda
 Maeda[X]
@@ -330,7 +364,7 @@ Holmes's friend. An energetic[N]
 female thief... in days gone by.[X]
 
 ## Name_Anna
-Anna[X]
+Funf[X]
 
 ## GenericName
 Soldier[X]
@@ -417,3 +451,41 @@ will only fight Void in single combat.[X]
 ## Ch11BossDesc
 A monster controlling the Travel[N]
 System. Surprisingly intelligent.[X]
+
+## FavalName
+Faval[X]
+
+## FavalDesc
+A guy with a legendary bow. Sure,[N]
+it's the worst of its kind, but[N]
+at least he has it. Binary, anyone?[X]
+
+## CorpleName
+Corple[X]
+
+## CorpleDesc
+A late-joining healer with almost[N]
+no redeeming features. As a result,[N]
+his mother dies for a berserk staff.[X]
+
+## HannibalName
+Hannibal[X]
+
+## HannibalDesc
+Nicknamed the "Shield of Thracia",[N]
+this veteran takes the dubious[N]
+honour of "Worst Unit in the Game."[X]
+
+## AltennaName
+Altenna[X]
+
+## AltennaDesc
+A woman on a dragon. Her mother was[N]
+kind of stupid: she brought her into[N]
+a desert. With dragons. Oh, Ethlin...[X]
+
+## JuliaName
+Julia[X]
+
+## LesterName
+Lester[X]

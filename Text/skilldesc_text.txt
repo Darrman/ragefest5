@@ -4,7 +4,7 @@ Savior: Can rescue[N]
 without penalties.[X]
 
 ## SD_Adept
-Adept: Gain a consecutive attack.[N]
+Continue: Gain a consecutive attack.[N]
 (Speed % activation)[X]
 
 ## SD_Acrobat
@@ -16,7 +16,7 @@ Pass: Can move through[N]
 enemy units.[X]
 
 ## SD_CantoPlus
-Canto+: Can move again after[N]
+Canto: Can move again after[N]
 attacking and other actions.[X]
 
 ## SD_WaryFighter
@@ -57,11 +57,11 @@ Bane: Leave the opponent at 1 HP.[N]
 (Skill/2 % activation)[X]
 
 ## SD_Luna
-Luna: Negates enemy defenses.[N]
+Lunar: Negates enemy defenses.[N]
 (Skill % activation)[X]
 
 ## SD_Sol
-Sol: Restore damage dealt as HP.[N]
+Solar: Restore damage dealt as HP.[N]
 (Skill % activation)[X]
 
 ## SD_Aether
@@ -70,7 +70,7 @@ second strike negates defenses.[N]
 (Skill/2 % activation)[X]
 
 ## SD_Astra
-Astra: 5 attacks at half damage.[N]
+Meteor: 5 attacks at half damage.[N]
 (Skill % activation)[X]
 
 ## SD_Discipline
@@ -98,11 +98,11 @@ Tomebreaker: +50 Hit/Avo when[N]
 enemy has a tome equipped.[X]
 
 ## SD_Aegis
-Aegis: Nullify a magic attack.[N]
-(Skill % activation)[X]
+This skill is only present due[N]
+to technical limitations.[X]
 
 ## SD_Pavise
-Pavise: Nullify a physical attack.[N]
+Great Shield: Nullify all damage.[N]
 (Skill % activation)[X]
 
 ## SD_DuelistsBlow
@@ -130,7 +130,7 @@ Armored Blow: +10 Def[N]
 when initiating battle.[X]
 
 ## SD_Vantage
-Vantage: If HP < 50%,[N]
+Ambush: If HP < 50%,[N]
 strike first when attacked.[X]
 
 ## SD_Desperation
@@ -139,7 +139,7 @@ double attacks occur immediately.[X]
 
 ## SD_Wrath
 Wrath: If HP < 50%,[N]
-+20 critical rate.[X]
+always critical.[X]
 
 ## SD_Counter
 Counter: Reflect physical damage[N]
@@ -150,7 +150,7 @@ Countermagic: Reflect magic damage[N]
 when attacked at 1-2 range.[X]
 
 ## SD_Miracle
-Miracle: Survive a lethal[N]
+Prayer: Survive a lethal[N]
 attack if HP > 50%.[X]
 
 ## SD_Swordfaire
@@ -197,7 +197,7 @@ Galeforce: Move again after[N]
 attacking and defeating an enemy.[X]
 
 ## SD_Renewal
-Renewal: Restore 30% of max HP[N]
+Life: Restore 30% of max HP[N]
 at the start of each turn.[X]
 
 ## SD_NiceThighs
@@ -221,7 +221,7 @@ Inspiration: Allies within 2 tiles[N]
 deal +2 damage and receive -2 damage.[X]
 
 ## SD_Charm
-Charm: Allies within 2[N]
+Charisma: Allies within 2[N]
 tiles deal +2 damage.[X]
 
 ## SD_VoiceOfPeace
@@ -253,7 +253,7 @@ Spur Resistance: Adjacent allies[N]
 take -4 magical damage.[X]
 
 ## SD_Nihil
-Nihil: Cancels the opponent's[N]
+Awareness: Cancels the opponent's[N]
 skills in combat.[X]
 
 ## SD_Nullify
@@ -261,7 +261,7 @@ Nullify: Unit is protected[N]
 from all effective attacks.[X]
 
 ## SD_Paragon
-Paragon: Experience gain[N]
+Elite: Experience gain[N]
 is doubled.[X]
 
 ## SD_Impale
@@ -458,8 +458,8 @@ Patience: When under[N]
 attack, avoid +10. [X]
 
 ## SD_Pursuit
-Pursuit: When under attack,[N]
-attack speed +2. [X]
+Pursuit: Allows unit to[N]
+make follow up attacks.[X]
 
 ## SD_LightWeight
 Light Weight: When holding three[N]

@@ -2,8 +2,8 @@
 This is a dummy file.[X]
 
 ## Desc_Anna
-A girl with a familiar face.[N]
-Her love of money is quite strong.[X]
+The fifth of the Dark Warlords,[N]
+a sniper of Ulir blood.[X]
 
 ## Desc_Breguet
 An innocent child...[N]

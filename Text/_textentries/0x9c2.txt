@@ -1,2 +1,2 @@
-Paragon: Experience gain[N]
-is doubled.[X]
+Charisma: Allies within 2[N]
+tiles deal +2 damage.[X]

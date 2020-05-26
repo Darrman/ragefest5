@@ -1,2 +1,3 @@
-[OpenRight][LoadVoid]
-Sorry Gheb, but you were in my way.[A][X]
+[MidRight][LoadVoid]
+It's over, Demon King![N]
+I have the high ground.[A][X]

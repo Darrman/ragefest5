@@ -13,4 +13,4 @@ ALIGN 4
 DangerZone:
 // #incbin "ASM/DangerZone.dmp"
 #incbin "ASM/dangerzone_sekrit.dmp" //for konami code
-POIN SecretEvent
+//POIN SecretEvent
